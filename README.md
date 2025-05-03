@@ -8,7 +8,7 @@ This repository contains an R script and dataset for analyzing single-cell RNA s
 
 ## Repository
 
-**GitHub**: https://github.com/toobamir/scRNAseq-PBMC-Seurat-ML
+**GitHub**: https://github.com/ToobaMir/R-Project
 
 ##  Contents
 
