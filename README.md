@@ -6,11 +6,11 @@ PBMC Cell Analysis in R: From Gene Data to Machine Learning
 Analyze single-cell RNA sequencing data to identify cell types and differentially expressed genes.
 This repository contains an R script and dataset for analyzing single-cell RNA sequencing (scRNA-seq) data using **Seurat**, followed by **machine learning-based cell classification** using **caret** and **kNN**.
 
-## 📂 Repository
+## Repository
 
 **GitHub**: https://github.com/toobamir/scRNAseq-PBMC-Seurat-ML
 
-## 📁 Contents
+##  Contents
 
 - `pbmc_analysis.R` — Main R script for the full Seurat workflow + machine learning
 - `pbmc_1k_v2_filtered_feature_bc_matrix.h5` — Filtered feature-barcode matrix in HDF5 format from 10x Genomics
@@ -20,7 +20,7 @@ This repository contains an R script and dataset for analyzing single-cell RNA s
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 Install the following R packages before running the script:
 
